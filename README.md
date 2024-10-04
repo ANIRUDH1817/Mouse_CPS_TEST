@@ -1,1 +1,2 @@
-# Mouse_CPS_TEST
+# mouse-cps-test
+A SImple Game to Test your Mouse Click Speed Test.
